@@ -5,7 +5,7 @@ ps4 built in database rebuilder has the tendency to remove fpkg from the databas
 - Python (preferably 3.0+)
 
 ## how-to-use
-1) Firmware 5.05: recursively clone this repo or download a [Release](https://github.com/Zer0xFF/PS4_db_rebuilder/releases)
+1) Firmware 5.05: recursively clone this repo or download a [Release](https://github.com/Zer0xFF/PS4_db_rebuilder/releases)  
 Firmwares 6.72 and 7.02: recursively clone this repo or download a [Release](https://github.com/hippie68/PS4_db_rebuilder/releases)
 2) start FTP server on the PS4
 3) run the python script though terminal/cmdline `python3 fix_db.py PS4_IP`
